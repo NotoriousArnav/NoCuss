@@ -10,3 +10,10 @@ The Processing Includes:<br>
   <li>Making a FreqDist Table of it</li>
   <li>Calculating the average, and then Juding you on that basis</li>
 </ul>
+<h1>How to use</h1>
+<ul>
+  <li><h3>Jupyter Notebook</h3></li>
+  Make your Own data.txt file and Run all the cells,the output should be correct!
+  <li><h3>Script</h3></li>
+  Same as JupyterNotebook
+</ul>
