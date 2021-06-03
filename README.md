@@ -17,3 +17,11 @@ The Processing Includes:<br>
   <li><h3>Script</h3></li>
   Same as JupyterNotebook
 </ul>
+<h2>Making own data.txt</h2>
+It is not mandatory to use only WhatsApp Chats, but This Repo is Only testd with WhatsApp Chats!<br>
+To make your own WhatsApp Data,<br>
+<pre>
+<code>
+cat <b>$WhatsappchatFile</b> | grep '$YourWhatsAppName' >data.txt
+</code>
+</pre>
